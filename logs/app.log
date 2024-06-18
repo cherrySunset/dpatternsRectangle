@@ -1,0 +1,225 @@
+01:55:08.397 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+01:55:08.434 [main] INFO  edu.pattern.shapes.util.RectangleReader - Added rectangle: Rectangle{name='Rectangle1', points=[Point{x=0.0, y=0.0}, Point{x=0.0, y=2.0}, Point{x=2.0, y=2.0}, Point{x=2.0, y=0.0}]}
+01:55:08.434 [main] INFO  edu.pattern.shapes.util.RectangleReader - Added rectangle: Rectangle{name='Rectangle2', points=[Point{x=1.0, y=1.0}, Point{x=1.0, y=3.0}, Point{x=3.0, y=3.0}, Point{x=3.0, y=1.0}]}
+01:55:08.434 [main] WARN  edu.pattern.shapes.util.RectangleReader - Skipping invalid line (incorrect number of points): 
+01:55:30.290 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+01:59:51.637 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+01:59:51.686 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 10.47213595499958
+01:59:51.698 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+02:07:42.640 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+02:07:42.675 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 10.47213595499958
+02:07:42.680 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+02:08:20.385 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+02:13:35.908 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+02:13:35.945 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 10.47213595499958
+02:13:35.950 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+02:18:54.288 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+02:18:54.318 [main] INFO  edu.pattern.shapes.util.RectangleReader - Added rectangle: Rectangle{name='Rectangle1', points=[Point{x=0.0, y=0.0}, Point{x=0.0, y=2.0}, Point{x=2.0, y=2.0}, Point{x=2.0, y=0.0}]}
+02:18:54.319 [main] INFO  edu.pattern.shapes.util.RectangleReader - Added rectangle: Rectangle{name='Rectangle2', points=[Point{x=1.0, y=1.0}, Point{x=1.0, y=3.0}, Point{x=3.0, y=3.0}, Point{x=3.0, y=1.0}]}
+02:18:54.319 [main] INFO  edu.pattern.shapes.util.RectangleReader - Added rectangle: Rectangle{name='InvalidRectangle', points=[Point{x=0.0, y=0.0}, Point{x=0.0, y=2.0}, Point{x=0.0, y=4.0}, Point{x=2.0, y=0.0}]}
+02:19:04.472 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+02:19:04.501 [main] INFO  edu.pattern.shapes.util.RectangleReader - Added rectangle: Rectangle{name='Rectangle1', points=[Point{x=0.0, y=0.0}, Point{x=0.0, y=2.0}, Point{x=2.0, y=2.0}, Point{x=2.0, y=0.0}]}
+02:19:04.501 [main] INFO  edu.pattern.shapes.util.RectangleReader - Added rectangle: Rectangle{name='Rectangle2', points=[Point{x=1.0, y=1.0}, Point{x=1.0, y=3.0}, Point{x=3.0, y=3.0}, Point{x=3.0, y=1.0}]}
+02:19:04.501 [main] INFO  edu.pattern.shapes.util.RectangleReader - Added rectangle: Rectangle{name='InvalidRectangle', points=[Point{x=0.0, y=0.0}, Point{x=0.0, y=2.0}, Point{x=0.0, y=4.0}, Point{x=2.0, y=0.0}]}
+02:39:07.057 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+02:39:07.092 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 10.47213595499958
+02:39:07.096 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+02:55:23.111 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+02:55:23.140 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 10.47213595499958
+02:55:23.143 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+03:03:34.535 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+03:03:34.565 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 10.47213595499958
+03:03:34.568 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+03:10:50.820 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+03:10:50.855 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 10.47213595499958
+03:10:50.865 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+03:16:33.091 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+03:16:33.122 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 6.82842712474619
+03:16:33.131 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+03:18:06.776 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+03:18:06.807 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 6.82842712474619
+03:18:06.817 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+03:18:57.136 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+03:18:57.172 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 6.82842712474619
+03:18:57.183 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+03:24:04.093 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+03:24:04.122 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 6.82842712474619
+03:24:04.132 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+03:24:34.784 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+03:24:34.814 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 6.82842712474619
+03:24:34.824 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 7.23606797749979
+03:24:55.456 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+03:24:55.488 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 6.82842712474619
+03:24:55.498 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 6.82842712474619
+03:25:05.541 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+03:25:05.575 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 6.82842712474619
+03:25:05.587 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 5.414213562373095
+03:25:18.598 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+03:25:18.629 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 6.82842712474619
+03:25:18.641 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 5.414213562373095
+03:28:48.492 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+03:28:48.526 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 6.82842712474619
+03:28:48.536 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+03:31:18.957 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+03:31:18.988 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 8.576491222541474
+03:31:18.998 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+03:32:22.150 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+03:32:22.187 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 8.576491222541474
+03:32:22.198 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+03:32:36.466 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+03:32:36.495 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 8.576491222541474
+03:32:36.507 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+03:34:21.632 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+03:34:21.684 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 8.576491222541474
+03:34:21.699 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+03:35:05.540 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+03:35:12.696 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+03:35:12.727 [main] INFO  edu.pattern.shapes.util.RectangleReader - Added rectangle: Rectangle{name='Rectangle1', points=[Point{x=0.0, y=0.0}, Point{x=0.0, y=2.0}, Point{x=2.0, y=2.0}, Point{x=2.0, y=0.0}]}
+03:35:12.727 [main] INFO  edu.pattern.shapes.util.RectangleReader - Added rectangle: Rectangle{name='Rectangle2', points=[Point{x=1.0, y=1.0}, Point{x=1.0, y=3.0}, Point{x=3.0, y=3.0}, Point{x=3.0, y=1.0}]}
+03:35:12.727 [main] INFO  edu.pattern.shapes.util.RectangleReader - Added rectangle: Rectangle{name='InvalidRectangle', points=[Point{x=0.0, y=0.0}, Point{x=0.0, y=2.0}, Point{x=0.0, y=4.0}, Point{x=2.0, y=0.0}]}
+03:35:21.252 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+03:35:21.284 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 10.47213595499958
+03:35:21.288 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+03:38:48.712 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+03:38:48.778 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 8.576491222541474
+03:38:48.789 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+03:40:15.630 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+03:40:15.660 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 6.82842712474619
+03:40:15.669 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+03:41:09.736 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+03:41:09.764 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 6.82842712474619
+03:41:09.775 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+03:41:44.672 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+03:41:44.701 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 6.82842712474619
+03:41:44.711 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+03:50:44.012 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+03:50:44.020 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 8.576491222541474
+03:53:10.503 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+03:53:10.508 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 8.576491222541474
+04:00:44.617 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+04:00:44.622 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 7.812559200041264
+04:03:08.460 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+04:03:08.495 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 8.576491222541474
+04:03:08.505 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+04:30:05.355 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 6.650281539872885
+04:30:05.361 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 8.576491222541474
+04:31:58.326 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+04:32:06.321 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+04:32:06.353 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 8.576491222541474
+04:32:06.363 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+04:34:24.886 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+04:34:24.916 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 6.82842712474619
+04:34:24.926 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+04:34:46.797 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+04:34:46.827 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 6.82842712474619
+04:35:07.755 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+04:35:07.790 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+04:36:45.497 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+04:36:45.550 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 8.0
+04:41:04.305 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+04:41:04.337 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 8.576491222541474
+04:41:14.084 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+04:41:14.098 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 6.82842712474619
+04:42:49.882 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+04:42:49.912 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 6.82842712474619
+04:42:49.923 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+04:43:28.352 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+04:43:28.388 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 6.82842712474619
+04:43:28.400 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+04:43:34.199 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+04:43:34.203 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 8.576491222541474
+04:43:52.762 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+04:43:52.767 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 8.576491222541474
+04:46:51.863 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+04:46:51.870 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 6.82842712474619
+04:49:24.308 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
+04:49:24.315 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 6.82842712474619
+04:51:28.093 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\user\AppData\Local\JetBrains\IntelliJIdea2023.3\temp-testng-customsuite.xml
+
+04:51:28.128 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for InvalidRectangle: 6.82842712474619
+04:51:28.141 [main] INFO  edu.pattern.shapes.service.RectangleService - Calculated perimeter for TestRectangle: 8.0
