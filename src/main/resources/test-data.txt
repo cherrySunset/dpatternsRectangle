@@ -1,0 +1,3 @@
+Rectangle1;0,0;0,2;2,2;2,0
+Rectangle2;1,1;1,3;3,3;3,1
+InvalidRectangle;0,0;0,2;0,4;2,0
